@@ -8,8 +8,8 @@ const PersonList = () => {
   const people = [
     {
       img: 22,
-      name: 'john',
-      job: 'PM'
+      name: 'Sasha',
+      job: 'Back-End'
     },
     {
       img: 23,
@@ -18,8 +18,8 @@ const PersonList = () => {
     },
     {
       img: 24,
-      name: 'Peter',
-      job: 'Designer'
+      name: 'Denys',
+      job: 'SEO'
     }
   ]
 
